@@ -23,10 +23,10 @@ Content and metadata for each bill can be harvested from FDsys by creating predi
  
 Example: 
 
-•	http://www.gpo.gov/fdsys/pkg/BILLS-112hr4261ih/xml/BILLS-112hr4261ih.xml
-•	http://www.gpo.gov/fdsys/pkg/BILLS-112hr4261ih/html/BILLS-112hr4261ih.htm
-•	http://www.gpo.gov/fdsys/pkg/BILLS-112hr4261ih/pdf/BILLS-112hr4261ih.pdf
-•	http://www.gpo.gov/fdsys/pkg/BILLS-112hr4261ih.zip
+-	http://www.gpo.gov/fdsys/pkg/BILLS-112hr4261ih/xml/BILLS-112hr4261ih.xml
+-	http://www.gpo.gov/fdsys/pkg/BILLS-112hr4261ih/html/BILLS-112hr4261ih.htm
+-	http://www.gpo.gov/fdsys/pkg/BILLS-112hr4261ih/pdf/BILLS-112hr4261ih.pdf
+-	http://www.gpo.gov/fdsys/pkg/BILLS-112hr4261ih.zip
 
  
 
