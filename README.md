@@ -12,11 +12,11 @@ Example:
  
 ```
 <url>
-<loc>http://www.gpo.gov/fdsys/pkg/BILLS-112hr4261ih/content-detail.html</loc> 
-                    <lastmod>2012-03-31T05:45:12.000Z</lastmod> 
-                    <changefreq>monthly</changefreq> 
-                    <priority>1.0</priority> 
-    </url>
+  <loc>http://www.gpo.gov/fdsys/pkg/BILLS-112hr4261ih/content-detail.html</loc> 
+    <lastmod>2012-03-31T05:45:12.000Z</lastmod> 
+    <changefreq>monthly</changefreq> 
+    <priority>1.0</priority> 
+ </url>
 ```
 
 Content and metadata for each bill can be harvested from FDsys by creating predictable URLS with information that is derived from the <loc> element within FDsys XML sitemaps. All content and metadata files are also contained within a ZIP file.  
