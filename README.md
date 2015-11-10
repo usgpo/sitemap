@@ -28,5 +28,12 @@ Example:
 -	http://www.gpo.gov/fdsys/pkg/BILLS-112hr4261ih/pdf/BILLS-112hr4261ih.pdf
 -	http://www.gpo.gov/fdsys/pkg/BILLS-112hr4261ih.zip
 
- 
+
+Additional metadata is displayed on the UI for granule-level More Information pages. Users are able to access the granule-level pages from the FDsys UI, but the sitemap points to package-level More Information pages. In order to obtain metadata, we recommend using the MODS XML metadata file. The MODS XML metadata file can be accessed directly using the pattern below and it is also contained within the ZIP file. 
+
+Example: 
+- http://www.gpo.gov/fdsys/pkg/BILLS-112hr4261ih/mods.xml
+- http://www.gpo.gov/fdsys/pkg/CHRG-103hhrg71118/mods.xml
+
+More Information page and Content Detail page are two names for the same UI HTML page. The term Content Detail apppears in the file name while links on the UI use the term More Information.
 
