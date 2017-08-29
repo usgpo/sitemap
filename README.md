@@ -38,7 +38,7 @@ Example:
 More Information page and Content Detail page are two names for the same UI HTML page. The term Content Detail apppears in the file name while links on the UI use the term More Information.
 
 
-##govinfo sitemaps
+## govinfo sitemaps
 GPO is pleased to release [sitemaps](https://www.govinfo.gov/sitemaps) for govinfo. These sitemaps are functionally similar to the existing FDsys sitemaps, though the structure has been streamlined to make it easier to track updates to specific collections.
 
 Where FDsys had a `sitemap_year/year_collection_sitemap.xml` format, govinfo provides each sitemap at the `collection_year` level more directly. 
