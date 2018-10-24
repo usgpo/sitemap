@@ -1,3 +1,5 @@
+>In December 2018, the FDsys website including the FDsys Bulk Data Repository, FDsys Sitemaps, and the FDsys Link Service will be retired. Please migrate tools and processes to [govinfo](https://www.govinfo.gov/developers).
+
 # sitemap
 
 Sitemaps can be used to crawl and harvest content from FDsys and are available from http://www.gpo.gov/smap/fdsys/sitemap.xml and http://www.gpo.gov/smap/bulkdata/sitemapindex.xml.
