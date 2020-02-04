@@ -1,5 +1,3 @@
->As part of an upcoming release and upgrade to our system, we will be reindexing all content in the coming weeks. This will result in updates to all content on sitemaps and the govinfo API. We will provide a more detailed update when we have a firm timeframe for when this will take effect on the public site and the API. 
-
 # sitemap
 
 GPO is pleased to release [sitemaps](https://www.govinfo.gov/sitemaps) for govinfo. These sitemaps are functionally similar to the existing FDsys sitemaps, though the structure has been streamlined to make it easier to track updates to specific collections.
